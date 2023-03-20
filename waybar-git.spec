@@ -5,7 +5,7 @@
 
 Name:           %{srcname}-git
 Version:        0.9.17^%{date}g%{shortcommit}
-Release:        1%{?dist}
+Release:        2%{?dist}
 Summary:        Highly customizable Wayland bar for Sway and Wlroots based compositors
 # MIT for main package, Boost for bundled clara.hpp
 License:        MIT and Boost
